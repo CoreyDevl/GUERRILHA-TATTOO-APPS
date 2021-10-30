@@ -33,12 +33,14 @@ body{
 
 
 h1{
+    padding: 15px 0px 0px 10px;
     font-family:var(--fonte-guerrilha);
-    font-size: 70px ;
+    font-size: 80px ;
     
 }
 
 hr{
+    background-color: black;
     border:  3px solid;
     
 }
@@ -76,7 +78,7 @@ textarea:focus, input:focus {
 
 .panel{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     height: 200px;
     width: 100%;
 }
