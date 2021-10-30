@@ -4,7 +4,12 @@
     font-family: 'guerrilha';
     src: url('./fonts/AmericanCaptain.ttf');
     font-weight: normal;
-    }
+}
+@font-face {
+    font-family: 'Augustine';
+    src: url('./fonts/Augustinne.ttf');
+    font-weight: normal;
+}
 * {
     margin: 0px;
     padding: 0px;
@@ -56,7 +61,7 @@ hr{
 }
 
 .inputs{
-    padding: 10px;
+    padding: 10px 10px 10px 10px;
 }
 
 .textbox::placeholder{
@@ -79,7 +84,17 @@ textarea:focus, input:focus {
 .panel{
     display: flex;
     justify-content: space-around;
-    height: 200px;
+    height: 135px;
     width: 100%;
 }
  
+legend{
+    font-size: 10pt;
+    color: rgba(0, 0, 0, 0.308);
+}
+
+#a{
+    font-size: 200px;
+    font-family: 'Augustine';
+    margin: -80px 0px 0px 0px;
+}
