@@ -1,0 +1,6 @@
+
+
+skinLoad()
+
+getText()
+
