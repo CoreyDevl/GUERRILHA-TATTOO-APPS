@@ -1,3 +1,5 @@
+
+
 function getText(){
 let inputValue = document.getElementById('send')
 let text = inputValue.value    
@@ -8,12 +10,5 @@ for(let i = 0 ; i < boxes.length ; i++){
     boxes[i].innerHTML = '';
     boxes[i].innerHTML = `${text}`;
 }
- 
 
- 
-
-
-
-
- 
 }
