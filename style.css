@@ -10,6 +10,13 @@
     src: url('./fonts/Augustinne.ttf');
     font-weight: normal;
 }
+
+@font-face {
+    font-family: 'Before the Rain';
+    src: url('./fonts/Before.ttf');
+    font-weight: normal;
+}
+
 * {
     margin: 0px;
     padding: 0px;

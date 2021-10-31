@@ -1,0 +1,284 @@
+[
+  {
+"font-face": "@font-face{",
+"font-family": "'guerrilha';",
+"src": "url('./fonts/AmericanCaptain.ttf');",
+"font-weight": "normal;}"
+},
+{
+"font-face": "@font-face{",
+"font-family": "'Augustinne';",
+"src": "url('./fonts/Augustinne.ttf');",
+"font-weight": "normal;}"
+},
+{
+"font-face": "@font-face{",
+"font-family": "'Angel of Blood';",
+"src": "url('./fonts/Angel of Blood.ttf');",
+"font-weight": "normal;}"
+},
+{
+"font-face": "@font-face{",
+"font-family": "'Before the Rain';",
+"src": "url('./fonts/Before.ttf');",
+"font-weight": "normal;}"
+},
+{
+"font-face": "@font-face{",
+"font-family": "'Angilla Tattoo';",
+"src": "url('./fonts/Angilla.ttf');",
+"font-weight": "normal;}"
+},
+{
+"font-face": "@font-face{",
+"font-family": "'Infinite Stroke';",
+"src": "url('./fonts/Infinite_Stroke.otf');",
+"font-weight": "normal;}"
+},
+{
+"font-face": "@font-face{",
+"font-family": "'Camilla';",
+"src": "url('./fonts/camilla_1.ttf');",
+"font-weight": "normal;}"
+},
+{
+"font-face": "@font-face{",
+"font-family": "'VTCTattooScriptTwo';",
+"src": "url('./fonts/Vtc-TattooScriptTwo_1.ttf');",
+"font-weight": "normal;}"
+},
+{
+"font-face": "@font-face{",
+"font-family": "'Mekar Script';",
+"src": "url('./fonts/Mekar Script.ttf');",
+"font-weight": "normal;}"
+},
+{
+"font-face": "@font-face{",
+"font-family": "'Mekar Script';",
+"src": "url('./fonts/MekarScript.ttf');",
+"font-weight": "normal;}"
+},
+{
+"font-face": "@font-face{",
+"font-family": "'Question and Love';",
+"src": "url('./fonts/QuestionLove.ttf');",
+"font-weight": "normal;}"
+},
+{
+"font-face": "@font-face{",
+"font-family": "'Ail et Fines Herbes';",
+"src": "url('./fonts/Ail.ttf');",
+"font-weight": "normal;}"
+},
+{
+"font-face": "@font-face{",
+"font-family": "'Across the Road';",
+"src": "url('./fonts/Across1.ttf');",
+"font-weight": "normal;}"
+},
+{
+"font-face": "@font-face{",
+"font-family": "'Angelique ma douce Colombe';",
+"src": "url('./fonts/Angeliquema.ttf');",
+"font-weight": "normal;}"
+},
+{
+"font-face": "@font-face{",
+"font-family": "'Angelique ma douce Colombe';",
+"src": "url('./fonts/Angeliquema.ttf');",
+"font-weight": "normal;}"
+},
+{
+"font-face": "@font-face{",
+"font-family": "'Bluelmin Benedict';",
+"src": "url('./fonts/Bluelmin Benedict.ttf');",
+"font-weight": "normal;}"
+},
+{
+"font-face": "@font-face{",
+"font-family": "'Bluelmin Benedict';",
+"src": "url('./fonts/BluelminBenedict.ttf');",
+"font-weight": "normal;}"
+},
+{
+"font-face": "@font-face{",
+"font-family": "'Beaked Tyrant';",
+"src": "url('./fonts/BeakedTyrant.ttf');",
+"font-weight": "normal;}"
+},
+{
+"font-face": "@font-face{",
+"font-family": "'Brev Script';",
+"src": "url('./fonts/BrevScript.ttf');",
+"font-weight": "normal;}"
+},
+{
+"font-face": "@font-face{",
+"font-family": "'Candlescript';",
+"src": "url('./fonts/Candlescript.otf');",
+"font-weight": "normal;}"
+},
+{
+"font-face": "@font-face{",
+"font-family": "'MixSwift';",
+"src": "url('./fonts/MixSwift.ttf');",
+"font-weight": "normal;}"
+},
+{
+"font-face": "@font-face{",
+"font-family": "'Castro Script';",
+"src": "url('./fonts/CastroScript.ttf');",
+"font-weight": "normal;}"
+},
+{
+"font-face": "@font-face{",
+"font-family": "'French Script';",
+"src": "url('./fonts/FrenchScript.ttf');",
+"font-weight": "normal;}"
+},
+{
+"font-face": "@font-face{",
+"font-family": "'Great Day';",
+"src": "url('./fonts/GreatDay.ttf');",
+"font-weight": "normal;}"
+},
+{
+"font-face": "@font-face{",
+"font-family": "'Hijrnotes';",
+"src": "url('./fonts/Hijrnotes.ttf');",
+"font-weight": "normal;}"
+},
+{
+"font-face": "@font-face{",
+"font-family": "'Deutsche Normalschrift';",
+"src": "url('./fonts/Deutsche.ttf');",
+"font-weight": "normal;}"
+},
+{
+"font-face": "@font-face{",
+"font-family": "'Presidente';",
+"src": "url('./fonts/Presidente.ttf');",
+"font-weight": "normal;}"
+},
+{
+"font-face": "@font-face{",
+"font-family": "'Infinite Stroke';",
+"src": "url('./fonts/InfiniteStroke.otf');",
+"font-weight": "normal;}"
+},
+{
+"font-face": "@font-face{",
+"font-family": "'Sabrina AT';",
+"src": "url('./fonts/SabrinaAT.otf');",
+"font-weight": "normal;}"
+},
+{
+"font-face": "@font-face{",
+"font-family": "'Sabrina AT';",
+"src": "url('./fonts/SabrinaAT.ttf');",
+"font-weight": "normal;}"
+}, 
+{
+"font-face": "@font-face{",
+"font-family": "'Freestyle Script';",
+"src": "url('./fonts/FreestyleScript.ttf');",
+"font-weight": "normal;}"
+},
+{
+"font-face": "@font-face{",
+"font-family": "'Mardian';",
+"src": "url('./fonts/Mardian.ttf');",
+"font-weight": "normal;}"
+},
+{
+"font-face": "@font-face{",
+"font-family": "'Queen of the Moon';",
+"src": "url('./fonts/QueenM.ttf');",
+"font-weight": "normal;}"
+},
+{
+"font-face": "@font-face{",
+"font-family": "'Quickier';",
+"src": "url('./fonts/Quickier.ttf');",
+"font-weight": "normal;}"
+},
+{
+"font-face": "@font-face{",
+"font-family": "'Monte Cristo';",
+"src": "url('./fonts/MonteCristo.ttf');",
+"font-weight": "normal;}"
+},
+{
+"font-face": "@font-face{",
+"font-family": "'Midnight Street';",
+"src": "url('./fonts/MidnightStreet .ttf');",
+"font-weight": "normal;}"
+},
+{
+"font-face": "@font-face{",
+"font-family": "'Sverige Script';",
+"src": "url('./fonts/SverigeScript .ttf');",
+"font-weight": "normal;}"
+},
+{
+"font-face": "@font-face{",
+"font-family": "'Rage Italic';",
+"src": "url('./fonts/RageItalic.ttf');",
+"font-weight": "normal;}"
+},
+{
+"font-face": "@font-face{",
+"font-family": "'Reditum';",
+"src": "url('./fonts/Reditum.ttf');",
+"font-weight": "normal;}"
+},
+{
+"font-face": "@font-face{",
+"font-family": "'Work In Progress';",
+"src": "url('./fonts/WorkProgress.ttf');",
+"font-weight": "normal;}"
+},
+{
+"font-face": "@font-face{",
+"font-family": "'Respective Slanted';",
+"src": "url('./fonts/RespectiveSlanted.ttf');",
+"font-weight": "normal;}"
+},
+{
+"font-face": "@font-face{",
+"font-family": "'Wedding Chardonnay';",
+"src": "url('./fonts/WeddingChardonnay.ttf');",
+"font-weight": "normal;}"
+},
+{
+"font-face": "@font-face{",
+"font-family": "'Segoe Script';",
+"src": "url('./fonts/SegoeScript.ttf');",
+"font-weight": "normal;}"
+},
+{
+"font-face": "@font-face{",
+"font-family": "'Xtreem 2';",
+"src": "url('./fonts/Xtreem2.ttf');",
+"font-weight": "normal;}"
+},
+{
+"font-face": "@font-face{",
+"font-family": "'Close to You';",
+"src": "url('./fonts/CloseYou.ttf');",
+"font-weight": "normal;}"
+},
+{
+"font-face": "@font-face{",
+"font-family": "'Aldebaran';",
+"src": "url('./fonts/Aldebaran.ttf');",
+"font-weight": "normal;}"
+},
+{
+"font-face": "@font-face{",
+"font-family": "'Aldebaran';",
+"src": "url('./fonts/Aldebaran.ttf');",
+"font-weight": "normal;}"
+},
+]
