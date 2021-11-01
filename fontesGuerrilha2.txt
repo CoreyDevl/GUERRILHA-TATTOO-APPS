@@ -1,638 +1,656 @@
-@charset "UTF-8";
-
-@font-face {
-font-family: 'guerrilha';
+[ 
+  {
+@font-face{
+font-family:'guerrilha';
 src: url('./fonts/AmericanCaptain.ttf');
 font-weight: normal;}
-@font-face {
-font-family: 'Augustine';
+}
+{
+ @font-face{
+font-family:'Augustinne';
 src: url('./fonts/Augustinne.ttf');
 font-weight: normal;}
-
-@font-face {
-font-family: 'Before the Rain';
-src: url('./fonts/Before.ttf');
-font-weight: normal;}
-@font-face{
+}
+{
+ @font-face{
 font-family:'Angel of Blood';
 src: url('./fonts/Angel of Blood.ttf');
 font-weight: normal;}
-@font-face{
+}
+{
+ @font-face{
+font-family:'Before the Rain';
+src: url('./fonts/Before.ttf');
+font-weight: normal;}
+}
+{
+ @font-face{
 font-family:'Angilla Tattoo';
 src: url('./fonts/Angilla.ttf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'Infinite Stroke';
 src: url('./fonts/Infinite_Stroke.otf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'Camilla';
 src: url('./fonts/camilla_1.ttf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'VTCTattooScriptTwo';
 src: url('./fonts/Vtc-TattooScriptTwo_1.ttf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'Mekar Script';
 src: url('./fonts/MekarScript.ttf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'Question and Love';
 src: url('./fonts/QuestionLove.ttf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'Ail et Fines Herbes';
 src: url('./fonts/Ail.ttf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'Across the Road';
 src: url('./fonts/Across1.ttf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'Angelique ma douce Colombe';
 src: url('./fonts/Angeliquema.ttf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'Bluelmin Benedict';
 src: url('./fonts/Bluelmin Benedict.ttf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'Beaked Tyrant';
 src: url('./fonts/BeakedTyrant.ttf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'Brev Script';
 src: url('./fonts/BrevScript.ttf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'Candlescript';
 src: url('./fonts/Candlescript.otf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'MixSwift';
 src: url('./fonts/MixSwift.ttf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'Castro Script';
 src: url('./fonts/CastroScript.ttf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'French Script';
 src: url('./fonts/FrenchScript.ttf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'Great Day';
 src: url('./fonts/GreatDay.ttf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'Hijrnotes';
 src: url('./fonts/Hijrnotes.ttf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'Deutsche Normalschrift';
 src: url('./fonts/Deutsche.ttf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'Presidente';
 src: url('./fonts/Presidente.ttf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'Infinite Stroke';
 src: url('./fonts/InfiniteStroke.otf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'Sabrina AT';
 src: url('./fonts/SabrinaAT.otf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'Freestyle Script';
 src: url('./fonts/FreestyleScript.ttf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'Mardian';
 src: url('./fonts/Mardian.ttf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'Queen of the Moon';
 src: url('./fonts/QueenM.ttf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'Quickier';
 src: url('./fonts/Quickier.ttf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'Monte Cristo';
 src: url('./fonts/MonteCristo.ttf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'Midnight Street';
 src: url('./fonts/MidnightStreet .ttf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'Sverige Script';
 src: url('./fonts/SverigeScript .ttf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'Rage Italic';
 src: url('./fonts/RageItalic.ttf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'Reditum';
 src: url('./fonts/Reditum.ttf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'Work In Progress';
 src: url('./fonts/WorkProgress.ttf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'Respective Slanted';
 src: url('./fonts/RespectiveSlanted.ttf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'Wedding Chardonnay';
 src: url('./fonts/WeddingChardonnay.ttf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'Segoe Script';
 src: url('./fonts/SegoeScript.ttf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'Xtreem 2';
 src: url('./fonts/Xtreem2.ttf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'Close to You';
 src: url('./fonts/CloseYou.ttf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'Aldebaran';
 src: url('./fonts/Aldebaran.ttf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'Bastarda-K';
 src: url('./fonts/Bastarda-K.ttf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'Brother Tattoo';
 src: url('./fonts/BrotherTattoo.ttf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'Billion Stars';
 src: url('./fonts/BillionStars.ttf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'Death in the Shadow';
 src: url('./fonts/Death.ttf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'DHF Milestone Script';
 src: url('./fonts/Milestone.ttf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'Feathergraphy Decoration';
 src: url('./fonts/Feathergraphy.ttf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'Vtc-NueTattooScript';
 src: url('./fonts/NueTattoo.ttf');
 font-weight: normal;}
-
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'Killigraphy';
 src: url('./fonts/Killigraphy.ttf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'Nina Script';
 src: url('./fonts/NinaScript.ttf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'VTC-BadTattooHandOne';
 src: url('./fonts/BadTattooHandOne.ttf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'Anglo Text';
 src: url('./fonts/AngloText.ttf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'Beckett';
 src: url('./fonts/Beckett.ttf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'Argor Brujsh Scaqh';
 src: url('./fonts/Argor.ttf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'BlackForest';
 src: url('./fonts/BlackForest.otf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'BACKSTAB FULL';
 src: url('./fonts/BACKSTABFULL.ttf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'Baltimore Goth';
 src: url('./fonts/BaltimoreGoth.ttf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'BlackInitialText';
 src: url('./fonts/BlackInitialText.ttf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'IncisedBlack';
 src: url('./fonts/IncisedBlack.ttf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'Offenbach Chancery';
 src: url('./fonts/OffenbachChancery.ttf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'PlainBlack';
 src: url('./fonts/PlainBlack.ttf');
 font-weight: normal;}
-
-@font-face{
-font-family:'amezesfont';
+}
+{
+ @font-face{
+font-family:'ameze'sfont';
 src: url('./fonts/amezeSfont.ttf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'Dope Jam';
 src: url('./fonts/DopeJam.ttf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'Empires';
 src: url('./fonts/Empires.otf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'CLUISHER BRUSH';
 src: url('./fonts/CLUISHERBRUSH.otf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'DumbnerdH';
 src: url('./fonts/CLUISHERBRUSH.otf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'mexaking';
 src: url('./fonts/mexaking.ttf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'Monsta Tag';
 src: url('./fonts/MonstaTag.ttf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'Squizers Marker';
 src: url('./fonts/SquizersMarker.ttf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'urban decay';
 src: url('./fonts/urbandecay.ttf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'WALLRIDER';
 src: url('./fonts/WALLRIDER.otf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'Amandita';
 src: url('./fonts/Amandita.ttf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'Amanda';
 src: url('./fonts/Amanda.ttf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'Amigos';
 src: url('./fonts/Amigos.ttf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'Angelinatta';
 src: url('./fonts/Angelinatta.ttf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'Asmelina Harley';
 src: url('./fonts/AsmelinaHarley.ttf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'Belinda Carolyne';
 src: url('./fonts/BrotherhoodScript.ttf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'Candire';
 src: url('./fonts/Candire.otf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'Centeria Script';
 src: url('./fonts/CenteriaScript.otf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'Crimson Foam';
 src: url('./fonts/CrimsonFoam.ttf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'Dragon is Coming';
 src: url('./fonts/DragonComing.otf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'AkaylaScript';
 src: url('./fonts/AkaylaScript.ttf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'Freebooter Script';
 src: url('./fonts/FreebooterScript.ttf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'Marguerite';
 src: url('./fonts/marguerite.ttf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'Master Of Break';
 src: url('./fonts/MasterBreak.ttf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'Maylika Calligraphy';
 src: url('./fonts/MaylikaCalligraphy.ttf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'Melinda Script';
 src: url('./fonts/MelindaScript.ttf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'Messenger Pigeons';
 src: url('./fonts/MessengerPigeons.ttf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'Manthesy';
 src: url('./fonts/Manthesy.ttf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'lintingdaon';
 src: url('./fonts/lintingdaon.ttf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'Lavanderia Regular';
 src: url('./fonts/LavanderiaRegular.otf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'King Lionel';
 src: url('./fonts/KingLionel.ttf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'Keith Gordon';
 src: url('./fonts/KeithGordon.ttf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'Watermelon';
 src: url('./fonts/Watermelon.ttf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'Ink In The Meat';
 src: url('./fonts/InkMeat.otf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'Palace Script';
 src: url('./fonts/PalaceScript.otf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'Millania';
 src: url('./fonts/Millania.otf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'Nagisha';
 src: url('./fonts/Nagisha.ttf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'Quickers';
 src: url('./fonts/Quickers.ttf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'Raysha Moonly';
 src: url('./fonts/RayshaMoonly.ttf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'Sacramento';
 src: url('./fonts/Sacramento.ttf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'Respective';
 src: url('./fonts/Respective.ttf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'BILLY ARGEL';
 src: url('./fonts/BILLYARGEL.otf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'Courier New';
 src: url('./fonts/CourierNew.ttf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'OCR A Extended';
 src: url('./fonts/OCRAExtended.ttf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'Times New Roman';
 src: url('./fonts/TimesRoman.ttf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'Pristina';
 src: url('./fonts/Pristina.ttf');
 font-weight: normal;}
-
-@font-face{
+}
+{
+ @font-face{
 font-family:'Gungsuh';
 src: url('./fonts/Gungsuh.ttc');
 font-weight: normal;}
-
-@font-face{
-font-family:'Palace Script';
-src: url('./fonts/Gungsuh.ttc');
-font-weight: normal;}
-
-* {
-margin: 0px;
-padding: 0px;
 }
-
-:root {
---cor0: #c5ebd6; 
---cor1: #83e1ad; 
---cor2: #6b6b6b; 
---cor3: #00000054;
---cor4: #00000075;
---cor5: #011309;
---fonte-padrão: Arial, Verdana, Helvetica, sans-serif;
---fonte-destaque: 'Bebas Neue', cursive;
---fonte-guerrilha: 'guerrilha', cursive;
-}
-
-body{
-
-margin: 0;
-background-color: white;
-height: auto;
-width: auto;
-}
-
-
-
-h1{
-padding: 15px 0px 0px 10px;
-font-family:var(--fonte-guerrilha);
-font-size: 80px ;
-
-}
-
-hr{
-background-color: black;
-border:  3px solid;
-
-}
-.textbox{
-border-style: none;
-width: 300px;
-min-width: 100px;
-text-align: start;
-box-shadow: 0px 0px 8px #00000063;
-margin: 10px;
-padding: 6px;
-
-}
-
-.inputs{
-padding: 10px 10px 10px 10px;
-}
-
-.textbox::placeholder{
-color: rgba(0, 0, 0, 0.24);
-font-size: 12.5pt;
-}
-
-textarea:focus, input:focus {
-box-shadow: 0 0 0 0;
-outline: 0;
-}
-
-.buttonbox{
-padding: 4px 17px;
-font-size: 12.5px;
-margin-left: 10px;
-
-}
-
-.panel{
-display: flex;
-justify-content: space-around;
-height: 135px;
-width: 100%;
-}
-
-legend{
-font-size: 10pt;
-color: rgba(0, 0, 0, 0.308);
-}
-
-#a{
-font-size: 200px;
-font-family: 'Augustine';
-margin: -80px 0px 0px 0px;
-}
+]

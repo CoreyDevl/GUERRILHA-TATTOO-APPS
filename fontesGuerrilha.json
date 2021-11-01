@@ -1,284 +1,656 @@
-[
+[ 
   {
-"font-face": "@font-face{",
-"font-family": "'guerrilha';",
-"src": "url('./fonts/AmericanCaptain.ttf');",
-"font-weight": "normal;}"
+"fontFace": "@font-face{",
+"fontFamily": "'guerrilha';",
+"source": "url('./fonts/AmericanCaptain.ttf');",
+"fontWeight": "normal;}"
 },
 {
-"font-face": "@font-face{",
-"font-family": "'Augustinne';",
-"src": "url('./fonts/Augustinne.ttf');",
-"font-weight": "normal;}"
+"fontFace": "@font-face{",
+"fontFamily": "'Augustinne';",
+"source": "url('./fonts/Augustinne.ttf');",
+"fontWeight": "normal;}"
 },
 {
-"font-face": "@font-face{",
-"font-family": "'Angel of Blood';",
-"src": "url('./fonts/Angel of Blood.ttf');",
-"font-weight": "normal;}"
+"fontFace": "@font-face{",
+"fontFamily": "'Angel of Blood';",
+"source": "url('./fonts/Angel of Blood.ttf');",
+"fontWeight": "normal;}"
 },
 {
-"font-face": "@font-face{",
-"font-family": "'Before the Rain';",
-"src": "url('./fonts/Before.ttf');",
-"font-weight": "normal;}"
+"fontFace": "@font-face{",
+"fontFamily": "'Before the Rain';",
+"source": "url('./fonts/Before.ttf');",
+"fontWeight": "normal;}"
 },
 {
-"font-face": "@font-face{",
-"font-family": "'Angilla Tattoo';",
-"src": "url('./fonts/Angilla.ttf');",
-"font-weight": "normal;}"
+"fontFace": "@font-face{",
+"fontFamily": "'Angilla Tattoo';",
+"source": "url('./fonts/Angilla.ttf');",
+"fontWeight": "normal;}"
 },
 {
-"font-face": "@font-face{",
-"font-family": "'Infinite Stroke';",
-"src": "url('./fonts/Infinite_Stroke.otf');",
-"font-weight": "normal;}"
+"fontFace": "@font-face{",
+"fontFamily": "'Infinite Stroke';",
+"source": "url('./fonts/Infinite_Stroke.otf');",
+"fontWeight": "normal;}"
 },
 {
-"font-face": "@font-face{",
-"font-family": "'Camilla';",
-"src": "url('./fonts/camilla_1.ttf');",
-"font-weight": "normal;}"
+"fontFace": "@font-face{",
+"fontFamily": "'Camilla';",
+"source": "url('./fonts/camilla_1.ttf');",
+"fontWeight": "normal;}"
 },
 {
-"font-face": "@font-face{",
-"font-family": "'VTCTattooScriptTwo';",
-"src": "url('./fonts/Vtc-TattooScriptTwo_1.ttf');",
-"font-weight": "normal;}"
+"fontFace": "@font-face{",
+"fontFamily": "'VTCTattooScriptTwo';",
+"source": "url('./fonts/Vtc-TattooScriptTwo_1.ttf');",
+"fontWeight": "normal;}"
 },
 {
-"font-face": "@font-face{",
-"font-family": "'Mekar Script';",
-"src": "url('./fonts/Mekar Script.ttf');",
-"font-weight": "normal;}"
+"fontFace": "@font-face{",
+"fontFamily": "'Mekar Script';",
+"source": "url('./fonts/MekarScript.ttf');",
+"fontWeight": "normal;}"
 },
 {
-"font-face": "@font-face{",
-"font-family": "'Mekar Script';",
-"src": "url('./fonts/MekarScript.ttf');",
-"font-weight": "normal;}"
+"fontFace": "@font-face{",
+"fontFamily": "'Question and Love';",
+"source": "url('./fonts/QuestionLove.ttf');",
+"fontWeight": "normal;}"
 },
 {
-"font-face": "@font-face{",
-"font-family": "'Question and Love';",
-"src": "url('./fonts/QuestionLove.ttf');",
-"font-weight": "normal;}"
+"fontFace": "@font-face{",
+"fontFamily": "'Ail et Fines Herbes';",
+"source": "url('./fonts/Ail.ttf');",
+"fontWeight": "normal;}"
 },
 {
-"font-face": "@font-face{",
-"font-family": "'Ail et Fines Herbes';",
-"src": "url('./fonts/Ail.ttf');",
-"font-weight": "normal;}"
+"fontFace": "@font-face{",
+"fontFamily": "'Across the Road';",
+"source": "url('./fonts/Across1.ttf');",
+"fontWeight": "normal;}"
 },
 {
-"font-face": "@font-face{",
-"font-family": "'Across the Road';",
-"src": "url('./fonts/Across1.ttf');",
-"font-weight": "normal;}"
+"fontFace": "@font-face{",
+"fontFamily": "'Angelique ma douce Colombe';",
+"source": "url('./fonts/Angeliquema.ttf');",
+"fontWeight": "normal;}"
 },
 {
-"font-face": "@font-face{",
-"font-family": "'Angelique ma douce Colombe';",
-"src": "url('./fonts/Angeliquema.ttf');",
-"font-weight": "normal;}"
+"fontFace": "@font-face{",
+"fontFamily": "'Bluelmin Benedict';",
+"source": "url('./fonts/Bluelmin Benedict.ttf');",
+"fontWeight": "normal;}"
 },
 {
-"font-face": "@font-face{",
-"font-family": "'Angelique ma douce Colombe';",
-"src": "url('./fonts/Angeliquema.ttf');",
-"font-weight": "normal;}"
+"fontFace": "@font-face{",
+"fontFamily": "'Beaked Tyrant';",
+"source": "url('./fonts/BeakedTyrant.ttf');",
+"fontWeight": "normal;}"
 },
 {
-"font-face": "@font-face{",
-"font-family": "'Bluelmin Benedict';",
-"src": "url('./fonts/Bluelmin Benedict.ttf');",
-"font-weight": "normal;}"
+"fontFace": "@font-face{",
+"fontFamily": "'Brev Script';",
+"source": "url('./fonts/BrevScript.ttf');",
+"fontWeight": "normal;}"
 },
 {
-"font-face": "@font-face{",
-"font-family": "'Bluelmin Benedict';",
-"src": "url('./fonts/BluelminBenedict.ttf');",
-"font-weight": "normal;}"
+"fontFace": "@font-face{",
+"fontFamily": "'Candlescript';",
+"source": "url('./fonts/Candlescript.otf');",
+"fontWeight": "normal;}"
 },
 {
-"font-face": "@font-face{",
-"font-family": "'Beaked Tyrant';",
-"src": "url('./fonts/BeakedTyrant.ttf');",
-"font-weight": "normal;}"
+"fontFace": "@font-face{",
+"fontFamily": "'MixSwift';",
+"source": "url('./fonts/MixSwift.ttf');",
+"fontWeight": "normal;}"
 },
 {
-"font-face": "@font-face{",
-"font-family": "'Brev Script';",
-"src": "url('./fonts/BrevScript.ttf');",
-"font-weight": "normal;}"
+"fontFace": "@font-face{",
+"fontFamily": "'Castro Script';",
+"source": "url('./fonts/CastroScript.ttf');",
+"fontWeight": "normal;}"
 },
 {
-"font-face": "@font-face{",
-"font-family": "'Candlescript';",
-"src": "url('./fonts/Candlescript.otf');",
-"font-weight": "normal;}"
+"fontFace": "@font-face{",
+"fontFamily": "'French Script';",
+"source": "url('./fonts/FrenchScript.ttf');",
+"fontWeight": "normal;}"
 },
 {
-"font-face": "@font-face{",
-"font-family": "'MixSwift';",
-"src": "url('./fonts/MixSwift.ttf');",
-"font-weight": "normal;}"
+"fontFace": "@font-face{",
+"fontFamily": "'Great Day';",
+"source": "url('./fonts/GreatDay.ttf');",
+"fontWeight": "normal;}"
 },
 {
-"font-face": "@font-face{",
-"font-family": "'Castro Script';",
-"src": "url('./fonts/CastroScript.ttf');",
-"font-weight": "normal;}"
+"fontFace": "@font-face{",
+"fontFamily": "'Hijrnotes';",
+"source": "url('./fonts/Hijrnotes.ttf');",
+"fontWeight": "normal;}"
 },
 {
-"font-face": "@font-face{",
-"font-family": "'French Script';",
-"src": "url('./fonts/FrenchScript.ttf');",
-"font-weight": "normal;}"
+"fontFace": "@font-face{",
+"fontFamily": "'Deutsche Normalschrift';",
+"source": "url('./fonts/Deutsche.ttf');",
+"fontWeight": "normal;}"
 },
 {
-"font-face": "@font-face{",
-"font-family": "'Great Day';",
-"src": "url('./fonts/GreatDay.ttf');",
-"font-weight": "normal;}"
+"fontFace": "@font-face{",
+"fontFamily": "'Presidente';",
+"source": "url('./fonts/Presidente.ttf');",
+"fontWeight": "normal;}"
 },
 {
-"font-face": "@font-face{",
-"font-family": "'Hijrnotes';",
-"src": "url('./fonts/Hijrnotes.ttf');",
-"font-weight": "normal;}"
+"fontFace": "@font-face{",
+"fontFamily": "'Infinite Stroke';",
+"source": "url('./fonts/InfiniteStroke.otf');",
+"fontWeight": "normal;}"
 },
 {
-"font-face": "@font-face{",
-"font-family": "'Deutsche Normalschrift';",
-"src": "url('./fonts/Deutsche.ttf');",
-"font-weight": "normal;}"
+"fontFace": "@font-face{",
+"fontFamily": "'Sabrina AT';",
+"source": "url('./fonts/SabrinaAT.otf');",
+"fontWeight": "normal;}"
 },
 {
-"font-face": "@font-face{",
-"font-family": "'Presidente';",
-"src": "url('./fonts/Presidente.ttf');",
-"font-weight": "normal;}"
+"fontFace": "@font-face{",
+"fontFamily": "'Freestyle Script';",
+"source": "url('./fonts/FreestyleScript.ttf');",
+"fontWeight": "normal;}"
 },
 {
-"font-face": "@font-face{",
-"font-family": "'Infinite Stroke';",
-"src": "url('./fonts/InfiniteStroke.otf');",
-"font-weight": "normal;}"
+"fontFace": "@font-face{",
+"fontFamily": "'Mardian';",
+"source": "url('./fonts/Mardian.ttf');",
+"fontWeight": "normal;}"
 },
 {
-"font-face": "@font-face{",
-"font-family": "'Sabrina AT';",
-"src": "url('./fonts/SabrinaAT.otf');",
-"font-weight": "normal;}"
+"fontFace": "@font-face{",
+"fontFamily": "'Queen of the Moon';",
+"source": "url('./fonts/QueenM.ttf');",
+"fontWeight": "normal;}"
 },
 {
-"font-face": "@font-face{",
-"font-family": "'Sabrina AT';",
-"src": "url('./fonts/SabrinaAT.ttf');",
-"font-weight": "normal;}"
-}, 
-{
-"font-face": "@font-face{",
-"font-family": "'Freestyle Script';",
-"src": "url('./fonts/FreestyleScript.ttf');",
-"font-weight": "normal;}"
+"fontFace": "@font-face{",
+"fontFamily": "'Quickier';",
+"source": "url('./fonts/Quickier.ttf');",
+"fontWeight": "normal;}"
 },
 {
-"font-face": "@font-face{",
-"font-family": "'Mardian';",
-"src": "url('./fonts/Mardian.ttf');",
-"font-weight": "normal;}"
+"fontFace": "@font-face{",
+"fontFamily": "'Monte Cristo';",
+"source": "url('./fonts/MonteCristo.ttf');",
+"fontWeight": "normal;}"
 },
 {
-"font-face": "@font-face{",
-"font-family": "'Queen of the Moon';",
-"src": "url('./fonts/QueenM.ttf');",
-"font-weight": "normal;}"
+"fontFace": "@font-face{",
+"fontFamily": "'Midnight Street';",
+"source": "url('./fonts/MidnightStreet .ttf');",
+"fontWeight": "normal;}"
 },
 {
-"font-face": "@font-face{",
-"font-family": "'Quickier';",
-"src": "url('./fonts/Quickier.ttf');",
-"font-weight": "normal;}"
+"fontFace": "@font-face{",
+"fontFamily": "'Sverige Script';",
+"source": "url('./fonts/SverigeScript .ttf');",
+"fontWeight": "normal;}"
 },
 {
-"font-face": "@font-face{",
-"font-family": "'Monte Cristo';",
-"src": "url('./fonts/MonteCristo.ttf');",
-"font-weight": "normal;}"
+"fontFace": "@font-face{",
+"fontFamily": "'Rage Italic';",
+"source": "url('./fonts/RageItalic.ttf');",
+"fontWeight": "normal;}"
 },
 {
-"font-face": "@font-face{",
-"font-family": "'Midnight Street';",
-"src": "url('./fonts/MidnightStreet .ttf');",
-"font-weight": "normal;}"
+"fontFace": "@font-face{",
+"fontFamily": "'Reditum';",
+"source": "url('./fonts/Reditum.ttf');",
+"fontWeight": "normal;}"
 },
 {
-"font-face": "@font-face{",
-"font-family": "'Sverige Script';",
-"src": "url('./fonts/SverigeScript .ttf');",
-"font-weight": "normal;}"
+"fontFace": "@font-face{",
+"fontFamily": "'Work In Progress';",
+"source": "url('./fonts/WorkProgress.ttf');",
+"fontWeight": "normal;}"
 },
 {
-"font-face": "@font-face{",
-"font-family": "'Rage Italic';",
-"src": "url('./fonts/RageItalic.ttf');",
-"font-weight": "normal;}"
+"fontFace": "@font-face{",
+"fontFamily": "'Respective Slanted';",
+"source": "url('./fonts/RespectiveSlanted.ttf');",
+"fontWeight": "normal;}"
 },
 {
-"font-face": "@font-face{",
-"font-family": "'Reditum';",
-"src": "url('./fonts/Reditum.ttf');",
-"font-weight": "normal;}"
+"fontFace": "@font-face{",
+"fontFamily": "'Wedding Chardonnay';",
+"source": "url('./fonts/WeddingChardonnay.ttf');",
+"fontWeight": "normal;}"
 },
 {
-"font-face": "@font-face{",
-"font-family": "'Work In Progress';",
-"src": "url('./fonts/WorkProgress.ttf');",
-"font-weight": "normal;}"
+"fontFace": "@font-face{",
+"fontFamily": "'Segoe Script';",
+"source": "url('./fonts/SegoeScript.ttf');",
+"fontWeight": "normal;}"
 },
 {
-"font-face": "@font-face{",
-"font-family": "'Respective Slanted';",
-"src": "url('./fonts/RespectiveSlanted.ttf');",
-"font-weight": "normal;}"
+"fontFace": "@font-face{",
+"fontFamily": "'Xtreem 2';",
+"source": "url('./fonts/Xtreem2.ttf');",
+"fontWeight": "normal;}"
 },
 {
-"font-face": "@font-face{",
-"font-family": "'Wedding Chardonnay';",
-"src": "url('./fonts/WeddingChardonnay.ttf');",
-"font-weight": "normal;}"
+"fontFace": "@font-face{",
+"fontFamily": "'Close to You';",
+"source": "url('./fonts/CloseYou.ttf');",
+"fontWeight": "normal;}"
 },
 {
-"font-face": "@font-face{",
-"font-family": "'Segoe Script';",
-"src": "url('./fonts/SegoeScript.ttf');",
-"font-weight": "normal;}"
+"fontFace": "@font-face{",
+"fontFamily": "'Aldebaran';",
+"source": "url('./fonts/Aldebaran.ttf');",
+"fontWeight": "normal;}"
 },
 {
-"font-face": "@font-face{",
-"font-family": "'Xtreem 2';",
-"src": "url('./fonts/Xtreem2.ttf');",
-"font-weight": "normal;}"
+"fontFace": "@font-face{",
+"fontFamily": "'Bastarda-K';",
+"source": "url('./fonts/Bastarda-K.ttf');",
+"fontWeight": "normal;}"
 },
 {
-"font-face": "@font-face{",
-"font-family": "'Close to You';",
-"src": "url('./fonts/CloseYou.ttf');",
-"font-weight": "normal;}"
+"fontFace": "@font-face{",
+"fontFamily": "'Brother Tattoo';",
+"source": "url('./fonts/BrotherTattoo.ttf');",
+"fontWeight": "normal;}"
 },
 {
-"font-face": "@font-face{",
-"font-family": "'Aldebaran';",
-"src": "url('./fonts/Aldebaran.ttf');",
-"font-weight": "normal;}"
+"fontFace": "@font-face{",
+"fontFamily": "'Billion Stars';",
+"source": "url('./fonts/BillionStars.ttf');",
+"fontWeight": "normal;}"
 },
 {
-"font-face": "@font-face{",
-"font-family": "'Aldebaran';",
-"src": "url('./fonts/Aldebaran.ttf');",
-"font-weight": "normal;}"
+"fontFace": "@font-face{",
+"fontFamily": "'Death in the Shadow';",
+"source": "url('./fonts/Death.ttf');",
+"fontWeight": "normal;}"
 },
+{
+"fontFace": "@font-face{",
+"fontFamily": "'DHF Milestone Script';",
+"source": "url('./fonts/Milestone.ttf');",
+"fontWeight": "normal;}"
+},
+{
+"fontFace": "@font-face{",
+"fontFamily": "'Feathergraphy Decoration';",
+"source": "url('./fonts/Feathergraphy.ttf');",
+"fontWeight": "normal;}"
+},
+{
+"fontFace": "@font-face{",
+"fontFamily": "'Vtc-NueTattooScript';",
+"source": "url('./fonts/NueTattoo.ttf');",
+"fontWeight": "normal;}"
+},
+{
+"fontFace": "@font-face{",
+"fontFamily": "'Killigraphy';",
+"source": "url('./fonts/Killigraphy.ttf');",
+"fontWeight": "normal;}"
+},
+{
+"fontFace": "@font-face{",
+"fontFamily": "'Nina Script';",
+"source": "url('./fonts/NinaScript.ttf');",
+"fontWeight": "normal;}"
+},
+{
+"fontFace": "@font-face{",
+"fontFamily": "'VTC-BadTattooHandOne';",
+"source": "url('./fonts/BadTattooHandOne.ttf');",
+"fontWeight": "normal;}"
+},
+{
+"fontFace": "@font-face{",
+"fontFamily": "'Anglo Text';",
+"source": "url('./fonts/AngloText.ttf');",
+"fontWeight": "normal;}"
+},
+{
+"fontFace": "@font-face{",
+"fontFamily": "'Beckett';",
+"source": "url('./fonts/Beckett.ttf');",
+"fontWeight": "normal;}"
+},
+{
+"fontFace": "@font-face{",
+"fontFamily": "'Argor Brujsh Scaqh';",
+"source": "url('./fonts/Argor.ttf');",
+"fontWeight": "normal;}"
+},
+{
+"fontFace": "@font-face{",
+"fontFamily": "'BlackForest';",
+"source": "url('./fonts/BlackForest.otf');",
+"fontWeight": "normal;}"
+},
+{
+"fontFace": "@font-face{",
+"fontFamily": "'BACKSTAB FULL';",
+"source": "url('./fonts/BACKSTABFULL.ttf');",
+"fontWeight": "normal;}"
+},
+{
+"fontFace": "@font-face{",
+"fontFamily": "'Baltimore Goth';",
+"source": "url('./fonts/BaltimoreGoth.ttf');",
+"fontWeight": "normal;}"
+},
+{
+"fontFace": "@font-face{",
+"fontFamily": "'BlackInitialText';",
+"source": "url('./fonts/BlackInitialText.ttf');",
+"fontWeight": "normal;}"
+},
+{
+"fontFace": "@font-face{",
+"fontFamily": "'IncisedBlack';",
+"source": "url('./fonts/IncisedBlack.ttf');",
+"fontWeight": "normal;}"
+},
+{
+"fontFace": "@font-face{",
+"fontFamily": "'Offenbach Chancery';",
+"source": "url('./fonts/OffenbachChancery.ttf');",
+"fontWeight": "normal;}"
+},
+{
+"fontFace": "@font-face{",
+"fontFamily": "'PlainBlack';",
+"source": "url('./fonts/PlainBlack.ttf');",
+"fontWeight": "normal;}"
+},
+{
+"fontFace": "@font-face{",
+"fontFamily": "'ameze'sfont';",
+"source": "url('./fonts/amezeSfont.ttf');",
+"fontWeight": "normal;}"
+},
+{
+"fontFace": "@font-face{",
+"fontFamily": "'Dope Jam';",
+"source": "url('./fonts/DopeJam.ttf');",
+"fontWeight": "normal;}"
+},
+{
+"fontFace": "@font-face{",
+"fontFamily": "'Empires';",
+"source": "url('./fonts/Empires.otf');",
+"fontWeight": "normal;}"
+},
+{
+"fontFace": "@font-face{",
+"fontFamily": "'CLUISHER BRUSH';",
+"source": "url('./fonts/CLUISHERBRUSH.otf');",
+"fontWeight": "normal;}"
+},
+{
+"fontFace": "@font-face{",
+"fontFamily": "'DumbnerdH';",
+"source": "url('./fonts/CLUISHERBRUSH.otf');",
+"fontWeight": "normal;}"
+},
+{
+"fontFace": "@font-face{",
+"fontFamily": "'mexaking';",
+"source": "url('./fonts/mexaking.ttf');",
+"fontWeight": "normal;}"
+},
+{
+"fontFace": "@font-face{",
+"fontFamily": "'Monsta Tag';",
+"source": "url('./fonts/MonstaTag.ttf');",
+"fontWeight": "normal;}"
+},
+{
+"fontFace": "@font-face{",
+"fontFamily": "'Squizers Marker';",
+"source": "url('./fonts/SquizersMarker.ttf');",
+"fontWeight": "normal;}"
+},
+{
+"fontFace": "@font-face{",
+"fontFamily": "'urban decay';",
+"source": "url('./fonts/urbandecay.ttf');",
+"fontWeight": "normal;}"
+},
+{
+"fontFace": "@font-face{",
+"fontFamily": "'WALLRIDER';",
+"source": "url('./fonts/WALLRIDER.otf');",
+"fontWeight": "normal;}"
+},
+{
+"fontFace": "@font-face{",
+"fontFamily": "'Amandita';",
+"source": "url('./fonts/Amandita.ttf');",
+"fontWeight": "normal;}"
+},
+{
+"fontFace": "@font-face{",
+"fontFamily": "'Amanda';",
+"source": "url('./fonts/Amanda.ttf');",
+"fontWeight": "normal;}"
+},
+{
+"fontFace": "@font-face{",
+"fontFamily": "'Amigos';",
+"source": "url('./fonts/Amigos.ttf');",
+"fontWeight": "normal;}"
+},
+{
+"fontFace": "@font-face{",
+"fontFamily": "'Angelinatta';",
+"source": "url('./fonts/Angelinatta.ttf');",
+"fontWeight": "normal;}"
+},
+{
+"fontFace": "@font-face{",
+"fontFamily": "'Asmelina Harley';",
+"source": "url('./fonts/AsmelinaHarley.ttf');",
+"fontWeight": "normal;}"
+},
+{
+"fontFace": "@font-face{",
+"fontFamily": "'Belinda Carolyne';",
+"source": "url('./fonts/BrotherhoodScript.ttf');",
+"fontWeight": "normal;}"
+},
+{
+"fontFace": "@font-face{",
+"fontFamily": "'Candire';",
+"source": "url('./fonts/Candire.otf');",
+"fontWeight": "normal;}"
+},
+{
+"fontFace": "@font-face{",
+"fontFamily": "'Centeria Script';",
+"source": "url('./fonts/CenteriaScript.otf');",
+"fontWeight": "normal;}"
+},
+{
+"fontFace": "@font-face{",
+"fontFamily": "'Crimson Foam';",
+"source": "url('./fonts/CrimsonFoam.ttf');",
+"fontWeight": "normal;}"
+},
+{
+"fontFace": "@font-face{",
+"fontFamily": "'Dragon is Coming';",
+"source": "url('./fonts/DragonComing.otf');",
+"fontWeight": "normal;}"
+},
+{
+"fontFace": "@font-face{",
+"fontFamily": "'AkaylaScript';",
+"source": "url('./fonts/AkaylaScript.ttf');",
+"fontWeight": "normal;}"
+},
+{
+"fontFace": "@font-face{",
+"fontFamily": "'Freebooter Script';",
+"source": "url('./fonts/FreebooterScript.ttf');",
+"fontWeight": "normal;}"
+},
+{
+"fontFace": "@font-face{",
+"fontFamily": "'Marguerite';",
+"source": "url('./fonts/marguerite.ttf');",
+"fontWeight": "normal;}"
+},
+{
+"fontFace": "@font-face{",
+"fontFamily": "'Master Of Break';",
+"source": "url('./fonts/MasterBreak.ttf');",
+"fontWeight": "normal;}"
+},
+{
+"fontFace": "@font-face{",
+"fontFamily": "'Maylika Calligraphy';",
+"source": "url('./fonts/MaylikaCalligraphy.ttf');",
+"fontWeight": "normal;}"
+},
+{
+"fontFace": "@font-face{",
+"fontFamily": "'Melinda Script';",
+"source": "url('./fonts/MelindaScript.ttf');",
+"fontWeight": "normal;}"
+},
+{
+"fontFace": "@font-face{",
+"fontFamily": "'Messenger Pigeons';",
+"source": "url('./fonts/MessengerPigeons.ttf');",
+"fontWeight": "normal;}"
+},
+{
+"fontFace": "@font-face{",
+"fontFamily": "'Manthesy';",
+"source": "url('./fonts/Manthesy.ttf');",
+"fontWeight": "normal;}"
+},
+{
+"fontFace": "@font-face{",
+"fontFamily": "'lintingdaon';",
+"source": "url('./fonts/lintingdaon.ttf');",
+"fontWeight": "normal;}"
+},
+{
+"fontFace": "@font-face{",
+"fontFamily": "'Lavanderia Regular';",
+"source": "url('./fonts/LavanderiaRegular.otf');",
+"fontWeight": "normal;}"
+},
+{
+"fontFace": "@font-face{",
+"fontFamily": "'King Lionel';",
+"source": "url('./fonts/KingLionel.ttf');",
+"fontWeight": "normal;}"
+},
+{
+"fontFace": "@font-face{",
+"fontFamily": "'Keith Gordon';",
+"source": "url('./fonts/KeithGordon.ttf');",
+"fontWeight": "normal;}"
+},
+{
+"fontFace": "@font-face{",
+"fontFamily": "'Watermelon';",
+"source": "url('./fonts/Watermelon.ttf');",
+"fontWeight": "normal;}"
+},
+{
+"fontFace": "@font-face{",
+"fontFamily": "'Ink In The Meat';",
+"source": "url('./fonts/InkMeat.otf');",
+"fontWeight": "normal;}"
+},
+{
+"fontFace": "@font-face{",
+"fontFamily": "'Palace Script';",
+"source": "url('./fonts/PalaceScript.otf');",
+"fontWeight": "normal;}"
+},
+{
+"fontFace": "@font-face{",
+"fontFamily": "'Millania';",
+"source": "url('./fonts/Millania.otf');",
+"fontWeight": "normal;}"
+},
+{
+"fontFace": "@font-face{",
+"fontFamily": "'Nagisha';",
+"source": "url('./fonts/Nagisha.ttf');",
+"fontWeight": "normal;}"
+},
+{
+"fontFace": "@font-face{",
+"fontFamily": "'Quickers';",
+"source": "url('./fonts/Quickers.ttf');",
+"fontWeight": "normal;}"
+},
+{
+"fontFace": "@font-face{",
+"fontFamily": "'Raysha Moonly';",
+"source": "url('./fonts/RayshaMoonly.ttf');",
+"fontWeight": "normal;}"
+},
+{
+"fontFace": "@font-face{",
+"fontFamily": "'Sacramento';",
+"source": "url('./fonts/Sacramento.ttf');",
+"fontWeight": "normal;}"
+},
+{
+"fontFace": "@font-face{",
+"fontFamily": "'Respective';",
+"source": "url('./fonts/Respective.ttf');",
+"fontWeight": "normal;}"
+},
+{
+"fontFace": "@font-face{",
+"fontFamily": "'BILLY ARGEL';",
+"source": "url('./fonts/BILLYARGEL.otf');",
+"fontWeight": "normal;}"
+},
+{
+"fontFace": "@font-face{",
+"fontFamily": "'Courier New';",
+"source": "url('./fonts/CourierNew.ttf');",
+"fontWeight": "normal;}"
+},
+{
+"fontFace": "@font-face{",
+"fontFamily": "'OCR A Extended';",
+"source": "url('./fonts/OCRAExtended.ttf');",
+"fontWeight": "normal;}"
+},
+{
+"fontFace": "@font-face{",
+"fontFamily": "'Times New Roman';",
+"source": "url('./fonts/TimesRoman.ttf');",
+"fontWeight": "normal;}"
+},
+{
+"fontFace": "@font-face{",
+"fontFamily": "'Pristina';",
+"source": "url('./fonts/Pristina.ttf');",
+"fontWeight": "normal;}"
+},
+{
+"fontFace": "@font-face{",
+"fontFamily": "'Gungsuh';",
+"source": "url('./fonts/Gungsuh.ttc');",
+"fontWeight": "normal;}"
+}
 ]

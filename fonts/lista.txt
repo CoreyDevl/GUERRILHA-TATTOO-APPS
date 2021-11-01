@@ -1,11 +1,6 @@
 ------------------------------
 
-Respective Slanted
-Wedding Chardonnay
-Segoe Script
-Xtreem 2 Personal Use
-Close to You
-Aldebaran
+
 Bastarda-K
 Brother Tattoo
 Billion Stars Personal Use 
@@ -15,7 +10,7 @@ Feathergraphy Decoration
  
 Vtc-NueTattooScript
 Killigraphy
-Nina Script Demo
+Nina Script Demo------------
 VTC-BadTattooHandOne
 Anglo Text
 Beckett
@@ -31,7 +26,7 @@ PlainBlack
  
 ameze'sfont
 Dope Jam
-Empires
+Empires--------------------
 CLUISHER BRUSH
 Dumbnerd
 mexaking
@@ -47,10 +42,10 @@ Ants Valley - Personal Use
 Asmelina Harley
 Belinda Carolyne
 Boheme Floral
-Brotherhood Script
+Brotherhood Script-------------------
 Candire
 Centeria Script Demo
-Coneria Script Demo
+Coneria Script Demo ----------------<<   esse arquivo nao veio
 Crimson Foam
 Dragon is Coming
 AkaylaScript_PERSONAL
@@ -68,7 +63,7 @@ King Lionel - Personal Use
 Keith Gordon
 Watermelon Script Demo
 Ink In The Meat
-Palace Script MT
+Palace Script MT----------------------<<<  esse arquivo ta faltando
 Millania
 Nagisha
 Quickers
