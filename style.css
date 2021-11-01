@@ -4,6 +4,7 @@
 font-family: 'guerrilha';
 src: url('./fonts/AmericanCaptain.ttf');
 font-weight: normal;}
+
 @font-face {
 font-family: 'Augustine';
 src: url('./fonts/Augustinne.ttf');
@@ -18,7 +19,7 @@ font-family:'Angel of Blood';
 src: url('./fonts/Angel of Blood.ttf');
 font-weight: normal;}
 @font-face{
-font-family:'Angilla Tattoo';
+font-family:'AngillaTattoo';
 src: url('./fonts/Angilla.ttf');
 font-weight: normal;}
 
@@ -34,7 +35,7 @@ font-weight: normal;}
 
 @font-face{
 font-family:'VTCTattooScriptTwo';
-src: url('./fonts/Vtc-TattooScriptTwo_1.ttf');
+src: url('./fonts/Vtc-TattooScriptTwo_1.otf');
 font-weight: normal;}
 
 @font-face{
@@ -154,12 +155,12 @@ font-weight: normal;}
 
 @font-face{
 font-family:'Midnight Street';
-src: url('./fonts/MidnightStreet .ttf');
+src: url('./fonts/MidnightStreet.ttf');
 font-weight: normal;}
 
 @font-face{
 font-family:'Sverige Script';
-src: url('./fonts/SverigeScript .ttf');
+src: url('./fonts/SverigeScript.ttf');
 font-weight: normal;}
 
 @font-face{
@@ -255,7 +256,7 @@ font-weight: normal;}
 
 @font-face{
 font-family:'VTC-BadTattooHandOne';
-src: url('./fonts/BadTattooHandOne.ttf');
+src: url('./fonts/BadTattooHandOne.otf');
 font-weight: normal;}
 
 @font-face{
@@ -279,11 +280,6 @@ src: url('./fonts/BlackForest.otf');
 font-weight: normal;}
 
 @font-face{
-font-family:'BACKSTAB FULL';
-src: url('./fonts/BACKSTABFULL.ttf');
-font-weight: normal;}
-
-@font-face{
 font-family:'Baltimore Goth';
 src: url('./fonts/BaltimoreGoth.ttf');
 font-weight: normal;}
@@ -291,11 +287,6 @@ font-weight: normal;}
 @font-face{
 font-family:'BlackInitialText';
 src: url('./fonts/BlackInitialText.ttf');
-font-weight: normal;}
-
-@font-face{
-font-family:'IncisedBlack';
-src: url('./fonts/IncisedBlack.ttf');
 font-weight: normal;}
 
 @font-face{
@@ -309,7 +300,7 @@ src: url('./fonts/PlainBlack.ttf');
 font-weight: normal;}
 
 @font-face{
-font-family:'amezesfont';
+font-family:'amezeSfont';
 src: url('./fonts/amezeSfont.ttf');
 font-weight: normal;}
 
@@ -330,7 +321,7 @@ font-weight: normal;}
 
 @font-face{
 font-family:'DumbnerdH';
-src: url('./fonts/CLUISHERBRUSH.otf');
+src: url('./fonts/DumbnerdH.ttf');
 font-weight: normal;}
 
 @font-face{
@@ -539,13 +530,8 @@ src: url('./fonts/Pristina.ttf');
 font-weight: normal;}
 
 @font-face{
-font-family:'Gungsuh';
-src: url('./fonts/Gungsuh.ttc');
-font-weight: normal;}
-
-@font-face{
 font-family:'Palace Script';
-src: url('./fonts/Gungsuh.ttc');
+src: url('./fonts/palace.ttf');
 font-weight: normal;}
 
 * {
@@ -554,7 +540,7 @@ padding: 0px;
 }
 
 :root {
---cor0: #c5ebd6; 
+--cor0: #box5ebd6; 
 --cor1: #83e1ad; 
 --cor2: #6b6b6b; 
 --cor3: #00000054;
@@ -620,6 +606,7 @@ margin-left: 10px;
 }
 
 .panel{
+margin-bottom: 37px;
 display: flex;
 justify-content: space-around;
 height: 135px;
@@ -631,8 +618,593 @@ font-size: 10pt;
 color: rgba(0, 0, 0, 0.308);
 }
 
-#a{
+#box000{
 font-size: 200px;
 font-family: 'Augustine';
-margin: -80px 0px 0px 0px;
+margin: -97px 0px 0px 0px;
+}
+
+#box001{
+font-size: 106px;
+font-family: 'Angel of Blood';
+margin: 0px 0px 0px 0px;
+}
+
+#box002{
+font-size: 50px;
+font-family: 'Before the Rain' ;
+margin: 20px 0px 0px 0px;
+}
+#box003{
+font-size: 60px;
+font-family: 'AngillaTattoo';
+margin: 20px 0px 0px -12px;
+}
+
+#box004{
+font-size: 60px;
+font-family: 'Infinite Stroke';
+margin: 0px 0px 0px 0px;
+}
+
+#box005{
+font-size: 50px;
+font-family: 'Camilla' ;
+margin: 15px 0px 0px 0px;
+}
+#box006{
+font-size: 100px;
+font-family: 'VTCTattooScriptTwo';
+margin: 0px 0px 0px 0px;
+}
+
+#box007{
+font-size: 60px;
+font-family: 'Mekar Script';
+margin: 22px 0px 0px 0px;
+}
+
+#box008{
+font-size: 90px;
+font-family: 'Question and Love' ;
+margin: -10px 0px 0px 0px;
+}
+#box009{
+font-size: 90px;
+font-family: 'Ail et Fines Herbes';
+margin:  -10px 0px 0px 0px;
+}
+
+#box010{
+font-size: 90px;
+font-family: 'Across the Road';
+margin: -30px 0px 0px -50px;
+}
+
+#box011{
+font-size: 150px;
+font-family: 'Angelique ma douce Colombe' ;
+margin: -60px 0px 0px 0px;
+}
+#box012{
+font-size: 70px;
+font-family: 'Bluelmin Benedict';
+margin: -10px 0px 0px -20px;
+}
+
+#box013{
+font-size: 100px;
+font-family: 'Beaked Tyrant';
+margin: -15px 0px 0px 0px;
+}
+
+#box014{
+font-size: 80px;
+font-family: 'Brev Script' ;
+margin: -25px 0px 0px 0px;
+}
+#box015{
+font-size: 60px;
+font-family: 'Candlescript';
+margin: 0px 0px 0px -18px;
+}
+
+#box016{
+font-size: 60px;
+font-family: 'MixSwift';
+margin: 0px 0px 0px -40px;
+}
+
+#box017{
+font-size: 56px;
+font-family: 'Castro Script' ;
+margin: 10px 0px 0px -10px;
+}
+#box018{
+font-size: 70px;
+font-family: 'French Script';
+margin: -12px 0px 0px -17px;
+}
+
+#box019{
+font-size: 60px;
+font-family: 'Great Day';
+margin: 1px 0px 0px -40px;
+}
+
+#box020{
+font-size: 50px;
+font-family: 'Hijrnotes' ;
+margin: -30px 0px 0px -55px;
+}
+#box021{
+font-size: 45px;
+font-family: 'Deutsche Normalschrift';
+margin: 0px 0px 0px 0px;
+}
+
+#box022{
+font-size: 70px;
+font-family: 'Presidente';
+margin: -20px 0px 0px -22px;
+}
+
+#box023{
+font-size: 50px;
+font-family: 'Sabrina AT' ;
+margin: 15px 0px 0px 0px;
+}
+#box024{
+font-size: 80px;
+font-family: 'Freestyle Script';
+margin: 0px 0px 0px 0px;
+}
+#box025{
+font-size: 100px;
+font-family: 'Mardian';
+margin: -10px 0px 0px -15px;
+}
+
+#box026{
+font-size: 98px;
+font-family: 'Queen of the Moon';
+margin: -11px 0px 0px 0px;
+}
+
+#box027{
+font-size: 80px;
+font-family: 'Quickier' ;
+margin: -10px 0px 0px -10px;
+}
+#box028{
+font-size: 90px;
+font-family: 'Monte Cristo';
+margin: -10px 0px 0px 0px;
+}
+
+#box029{
+font-size: 100px;
+font-family: 'Midnight Street';
+margin: -20px 0px 0px 0px;
+}
+
+#box030{
+font-size: 50px;
+font-family: 'Sverige Script' ;
+margin: 20px 0px 0px 0px;
+}
+#box031{
+font-size: 70px;
+font-family: 'Rage Italic';
+margin: 0px 0px 0px 0px;
+}
+
+#box032{
+font-size: 70px;
+font-family: 'Reditum';
+margin: 0px 0px 0px 0px;
+}
+
+#box033{
+font-size: 50px;
+font-family: 'Work In Progress' ;
+margin: 20px 0px 0px 0px;
+}
+#box034{
+font-size: 80px;
+font-family: 'Respective Slanted';
+margin: 0px 0px 0px 0px;
+}
+
+#box035{
+font-size: 106px;
+font-family: 'Wedding Chardonnay';
+margin: -15px 0px 0px 0px;
+}
+
+#box036{
+font-size: 40px;
+font-family: 'Segoe Script' ;
+margin: 20px 0px 0px 0px;
+}
+#box037{
+font-size: 90px;
+font-family: 'Xtreem 2';
+margin: -20px 0px 0px 0px;
+}
+
+#box038{
+font-size: 70px;
+font-family: 'Close to You';
+margin: -10px 0px 0px -10px;
+}
+
+#box039{
+font-size: 90px;
+font-family: 'Aldebaran' ;
+margin: 0px 0px 0px 0px;
+}
+#box040{
+font-size: 80px;
+font-family: 'Bastarda-K';
+margin: -18px 0px 0px -18px;
+}
+
+#box041{
+font-size: 106px;
+font-family: 'Brother Tattoo';
+margin: -20px 0px 0px 0px;
+}
+
+#box042{
+font-size: 110px;
+font-family: 'Billion Stars' ;
+margin: -15px 0px 0px -11px;
+}
+#box043{
+font-size: 150px;
+font-family: 'Death in the Shadow';
+margin: -53px 0px 0px -10px;
+}
+
+#box044{
+font-size: 70px;
+font-family: 'DHF Milestone Script';
+margin: 0px 0px 0px 0px;
+}
+
+#box045{
+font-size: 80px;
+font-family: 'Feathergraphy Decoration' ;
+margin: 0px 0px 0px 0px;
+}
+#box046{
+font-size: 90px;
+font-family: 'VTC-NueTattooScript';
+margin: -20px 0px 0px 0px;
+}
+
+#box047{
+font-size: 35px;
+font-family: 'Killigraphy';
+margin: 0px 0px 0px 0px;
+}
+
+#box048{
+font-size: 60px;
+font-family: 'Nina Script' ;
+margin: 20px 0px 0px 0px;
+}
+#box049{
+font-size: 80px;
+font-family: 'VTC-BadTattooHandOne';
+margin: 0px 0px 0px 0px;
+}
+
+#box050{
+font-size: 106px;
+font-family: 'Anglo Text';
+margin: -25px 0px 0px -15px;
+}
+
+#box051{
+font-size: 80px;
+font-family: 'Beckett' ;
+margin: 0px 0px 0px -15px;
+}
+#box052{
+font-size: 50px;
+font-family: 'Argor Brujsh Scaqh';
+margin: 0px 0px 0px -20px;
+}
+
+#box053{
+font-size: 130px;
+font-family: 'BlackForest';
+margin: -40px 0px 0px 0px;
+}
+
+#box054{
+font-size: 95px;
+font-family: 'Baltimore Goth' ;
+margin: -8px 0px 0px 0px;
+}
+#box055{
+font-size: 60px;
+font-family: 'BlackInitialText';
+margin: 0px 0px 0px -40px;
+}
+
+#box056{
+font-size: 100px;
+font-family: 'Offenbach Chancery';
+margin: -20px 0px 0px 0px;
+}
+
+#box057{
+font-size: 80px;
+font-family: 'PlainBlack' ;
+margin: -10px 0px 0px -10px;
+}
+#box058{
+font-size: 60px;
+font-family: 'amezeSfont';
+margin: 0px 0px 0px 0px;
+}
+
+#box059{
+font-size: 60px;
+font-family: 'Dope Jam';
+margin: 0px 0px 0px 0px;
+}
+
+#box060{
+font-size: 90px;
+font-family: 'Empires' ;
+margin: 20px 0px 0px 0px;
+}
+#box061{
+font-size: 70px;
+font-family: 'CLUISHER BRUSH';
+margin: 0px 0px 0px 0px;
+}
+
+#box062{
+font-size: 80px;
+font-family: 'DumbnerdH';
+margin: 0px 0px 0px 0px;
+}
+
+#box063{
+font-size: 50px;
+font-family: 'mexaking' ;
+margin: 20px 0px 0px 0px;
+}
+#box064{
+font-size: 90px;
+font-family: 'Monsta Tag';
+margin: 0px 0px 0px 0px;
+}
+
+#box065{
+font-size: 106px;
+font-family: 'Squizers Marker';
+margin: 0px 0px 0px 0px;
+}
+
+#box066{
+font-size: 60px;
+font-family: 'urban decay' ;
+margin: 20px 0px 0px 0px;
+}
+#box067{
+font-size: 90px;
+font-family: 'WALLRIDER';
+margin: 20px 0px 0px 0px;
+}
+
+#box068{
+font-size: 70px;
+font-family: 'Amandita';
+margin: 0px 0px 0px 0px;
+}
+
+#box069{
+font-size: 70px;
+font-family: 'Amanda' ;
+margin: 10px 0px 0px 0px;
+}
+
+#box070{
+font-size: 80px;
+font-family: 'Angelinatta';
+margin: 0px 0px 0px 0px;
+}
+
+#box071{
+font-size: 92px;
+font-family: 'Asmelina Harley';
+margin: -60px 0px 0px 0px;
+}
+
+#box072{
+font-size: 80px;
+font-family: 'Belinda Carolyne' ;
+margin: 0px 0px 0px 0px;
+}
+#box073{
+font-size: 70px;
+font-family: 'Candire';
+margin: 0px 0px 0px 0px;
+}
+
+#box074{
+font-size: 70px;
+font-family: 'Centeria Script';
+margin: 10px 0px 0px 0px;
+}
+
+#box075{
+font-size: 140px;
+font-family: 'Crimson Foam' ;
+margin: -20px 0px 0px 0px;
+}
+#box076{
+font-size: 120px;
+font-family: 'Dragon is Coming';
+margin: -40px 0px 0px 0px;
+}
+
+#box077{
+font-size: 70px;
+font-family: 'AkaylaScript';
+margin: 0px 0px 0px 0px;
+}
+
+#box078{
+font-size: 70px;
+font-family: 'Freebooter Script' ;
+margin: -10px 0px 0px 0px;
+}
+#box079{
+font-size: 47px;
+font-family: 'Marguerite';
+margin: 15px 0px 0px -26px;
+}
+
+#box080{
+font-size: 60px;
+font-family: 'Master Of Break';
+margin: 10px 0px 0px 0px;
+}
+
+#box081{
+font-size: 90px;
+font-family: 'Maylika Calligraphy' ;
+margin: -25px 0px 0px 0px;
+}
+#box082{
+font-size: 90px;
+font-family: 'Melinda Script';
+margin: -20px 0px 0px 0px;
+}
+
+#box083{
+font-size: 50px;
+font-family: 'Messenger Pigeons';
+margin: 0px 0px 0px 0px;
+}
+
+#box084{
+font-size: 90px;
+font-family: 'Manthesy' ;
+margin: -18px 0px 0px 0px;
+}
+#box085{
+font-size: 80px;
+font-family: 'lintingdaon';
+margin: 0px 0px 0px 0px;
+}
+
+#box086{
+font-size: 80px;
+font-family: 'Lavanderia Regular';
+margin: -20px 0px 0px 0px;
+}
+
+#box087{
+font-size: 70px;
+font-family: 'King Lionel' ;
+margin: 20px 0px 0px 0px;
+}
+#box088{
+font-size: 90px;
+font-family: 'Keith Gordon';
+margin: 0px 0px 0px 0px;
+}
+
+#box089{
+font-size: 50px;
+font-family: 'Watermelon';
+margin: 20px 0px 0px 0px;
+}
+
+#box090{
+font-size: 100px;
+font-family: 'Ink In The Meat' ;
+margin: px 0px 0px 0px;
+}
+#box091{
+font-size: 80px;
+font-family: 'Palace Script';
+margin: -10px 0px 0px 0px;
+}
+
+#box092{
+font-size: 80px;
+font-family: 'Millania';
+margin: -30px 0px 0px 0px;
+}
+
+#box093{
+font-size: 120px;
+font-family: 'Nagisha' ;
+margin: -30px 0px 0px 0px;
+}
+#box094{
+font-size: 80px;
+font-family: 'Quickers';
+margin: 0px 0px 0px 0px;
+}
+
+#box095{
+font-size: 100px;
+font-family: 'Raysha Moonly';
+margin: -22px 0px 0px -35px;
+}
+
+#box096{
+font-size: 65px;
+font-family: 'Sacramento' ;
+margin: -15px 0px 0px 0px;
+}
+#box097{
+font-size: 80px;
+font-family: 'Respective';
+margin: -10px 0px 0px 0px;
+}
+
+#box098{
+font-size: 90px;
+font-family: 'BILLY ARGEL';
+margin: 0px 0px 0px 0px;
+}
+
+#box099{
+font-size: 50px;
+font-family: 'Courier New' ;
+margin: 20px 0px 0px 0px;
+}
+#box100{
+font-size: 60px;
+font-family: 'OCR A Extended';
+margin: 12px 0px 0px 0px;
+}
+
+#box101{
+font-size: 60px;
+font-family: 'Times New Roman';
+margin: 10px 0px 0px 0px;
+}
+
+#box102{
+font-size: 80px;
+font-family: 'Pristina' ;
+margin: 0px 0px 0px 0px;
+} 
+
+
+
+.panelOff{
+    display:none
 }

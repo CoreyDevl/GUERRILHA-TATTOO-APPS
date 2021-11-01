@@ -1,14 +1,13 @@
+
+
+
+
 document.addEventListener("keypress", function(e){
     if(e.key === "Enter"){
     getText()
     }
 })
 
-fetch("fontesGuerrilha.json")
-.then(res => res.json())
-.then(res => {
-   
-})  
 function getText(){
  
     let inputValue = document.getElementById('send')

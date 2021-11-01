@@ -31,7 +31,7 @@
 },
 {
 "fontFace": "@font-face{",
-"fontFamily": "'Infinite Stroke';",
+"fontFamily": "'InfiniteStroke';",
 "source": "url('./fonts/Infinite_Stroke.otf');",
 "fontWeight": "normal;}"
 },
@@ -55,7 +55,7 @@
 },
 {
 "fontFace": "@font-face{",
-"fontFamily": "'Question and Love';",
+"fontFamily": "'QuestionLove';",
 "source": "url('./fonts/QuestionLove.ttf');",
 "fontWeight": "normal;}"
 },
@@ -289,7 +289,7 @@
 },
 {
 "fontFace": "@font-face{",
-"fontFamily": "'Vtc-NueTattooScript';",
+"fontFamily": "'VTC-NueTattooScript';",
 "source": "url('./fonts/NueTattoo.ttf');",
 "fontWeight": "normal;}"
 },
@@ -337,12 +337,6 @@
 },
 {
 "fontFace": "@font-face{",
-"fontFamily": "'BACKSTAB FULL';",
-"source": "url('./fonts/BACKSTABFULL.ttf');",
-"fontWeight": "normal;}"
-},
-{
-"fontFace": "@font-face{",
 "fontFamily": "'Baltimore Goth';",
 "source": "url('./fonts/BaltimoreGoth.ttf');",
 "fontWeight": "normal;}"
@@ -351,12 +345,6 @@
 "fontFace": "@font-face{",
 "fontFamily": "'BlackInitialText';",
 "source": "url('./fonts/BlackInitialText.ttf');",
-"fontWeight": "normal;}"
-},
-{
-"fontFace": "@font-face{",
-"fontFamily": "'IncisedBlack';",
-"source": "url('./fonts/IncisedBlack.ttf');",
 "fontWeight": "normal;}"
 },
 {
@@ -373,7 +361,7 @@
 },
 {
 "fontFace": "@font-face{",
-"fontFamily": "'ameze'sfont';",
+"fontFamily": "'amezeSfont';",
 "source": "url('./fonts/amezeSfont.ttf');",
 "fontWeight": "normal;}"
 },
@@ -645,12 +633,6 @@
 "fontFace": "@font-face{",
 "fontFamily": "'Pristina';",
 "source": "url('./fonts/Pristina.ttf');",
-"fontWeight": "normal;}"
-},
-{
-"fontFace": "@font-face{",
-"fontFamily": "'Gungsuh';",
-"source": "url('./fonts/Gungsuh.ttc');",
 "fontWeight": "normal;}"
 }
 ]
