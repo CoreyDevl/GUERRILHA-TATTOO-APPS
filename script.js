@@ -10,7 +10,7 @@ function getText(){
     let text = inputValue.value    
     let panel = document.querySelector('.panel')
     let boxes = document.getElementsByClassName("exemplos")
-    
+    console.log('foi')
   
     for(let i = 0 ; i < boxes.length ; i++){
         boxes[i].innerHTML = '';
@@ -18,4 +18,9 @@ function getText(){
 
     } 
 }
- 
+
+
+function checkMark(){
+    const checkers = document.querySelectorAll('input.check')
+    
+ }

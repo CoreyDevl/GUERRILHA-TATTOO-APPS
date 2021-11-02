@@ -602,8 +602,13 @@ outline: 0;
 padding: 4px 17px;
 font-size: 12.5px;
 margin-left: 10px;
-
 }
+
+ .check{
+     position: absolute;
+     margin: 2px -25px;
+     
+ }
 
 .panel{
 margin-bottom: 37px;
