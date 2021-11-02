@@ -9,7 +9,8 @@
 "fontFace": "@font-face{",
 "fontFamily": "'Augustinne';",
 "source": "url('./fonts/Augustinne.ttf');",
-"fontWeight": "normal;}"
+"fontWeight": "normal;}",
+"handwriting": true
 },
 {
 "fontFace": "@font-face{",
@@ -33,7 +34,8 @@
 "fontFace": "@font-face{",
 "fontFamily": "'InfiniteStroke';",
 "source": "url('./fonts/Infinite_Stroke.otf');",
-"fontWeight": "normal;}"
+"fontWeight": "normal;}",
+"handwriting": true
 },
 {
 "fontFace": "@font-face{",
@@ -51,115 +53,127 @@
 "fontFace": "@font-face{",
 "fontFamily": "'Mekar Script';",
 "source": "url('./fonts/MekarScript.ttf');",
-"fontWeight": "normal;}"
+"fontWeight": "normal;}",
+"handwriting": true
 },
 {
 "fontFace": "@font-face{",
 "fontFamily": "'QuestionLove';",
 "source": "url('./fonts/QuestionLove.ttf');",
-"fontWeight": "normal;}"
+"fontWeight": "normal;}",
+"handwriting": true
 },
 {
 "fontFace": "@font-face{",
 "fontFamily": "'Ail et Fines Herbes';",
 "source": "url('./fonts/Ail.ttf');",
-"fontWeight": "normal;}"
+"fontWeight": "normal;}",
+"handwriting": true
 },
 {
 "fontFace": "@font-face{",
 "fontFamily": "'Across the Road';",
 "source": "url('./fonts/Across1.ttf');",
-"fontWeight": "normal;}"
+"fontWeight": "normal;}",
+"handwriting": true
 },
 {
 "fontFace": "@font-face{",
 "fontFamily": "'Angelique ma douce Colombe';",
 "source": "url('./fonts/Angeliquema.ttf');",
-"fontWeight": "normal;}"
+"fontWeight": "normal;}",
+"handwriting": true
 },
 {
 "fontFace": "@font-face{",
 "fontFamily": "'Bluelmin Benedict';",
 "source": "url('./fonts/Bluelmin Benedict.ttf');",
-"fontWeight": "normal;}"
+"fontWeight": "normal;}",
+"handwriting": true
 },
 {
 "fontFace": "@font-face{",
 "fontFamily": "'Beaked Tyrant';",
 "source": "url('./fonts/BeakedTyrant.ttf');",
-"fontWeight": "normal;}"
+"fontWeight": "normal;}",
+"handwriting": true
 },
 {
 "fontFace": "@font-face{",
 "fontFamily": "'Brev Script';",
 "source": "url('./fonts/BrevScript.ttf');",
-"fontWeight": "normal;}"
+"fontWeight": "normal;}",
+"handwriting": true
 },
 {
 "fontFace": "@font-face{",
 "fontFamily": "'Candlescript';",
 "source": "url('./fonts/Candlescript.otf');",
-"fontWeight": "normal;}"
+"fontWeight": "normal;}",
+"handwriting": true
 },
 {
 "fontFace": "@font-face{",
 "fontFamily": "'MixSwift';",
 "source": "url('./fonts/MixSwift.ttf');",
-"fontWeight": "normal;}"
+"fontWeight": "normal;}",
+"handwriting": true
 },
 {
 "fontFace": "@font-face{",
 "fontFamily": "'Castro Script';",
 "source": "url('./fonts/CastroScript.ttf');",
-"fontWeight": "normal;}"
+"fontWeight": "normal;}",
+"handwriting": true
 },
 {
 "fontFace": "@font-face{",
 "fontFamily": "'French Script';",
 "source": "url('./fonts/FrenchScript.ttf');",
-"fontWeight": "normal;}"
+"fontWeight": "normal;}",
+"handwriting": true
 },
 {
 "fontFace": "@font-face{",
 "fontFamily": "'Great Day';",
 "source": "url('./fonts/GreatDay.ttf');",
-"fontWeight": "normal;}"
+"fontWeight": "normal;}",
+"handwriting": true
 },
 {
 "fontFace": "@font-face{",
 "fontFamily": "'Hijrnotes';",
 "source": "url('./fonts/Hijrnotes.ttf');",
-"fontWeight": "normal;}"
+"fontWeight": "normal;}",
+"handwriting": true
 },
 {
 "fontFace": "@font-face{",
 "fontFamily": "'Deutsche Normalschrift';",
 "source": "url('./fonts/Deutsche.ttf');",
-"fontWeight": "normal;}"
+"fontWeight": "normal;}",
+"handwriting": true
 },
 {
 "fontFace": "@font-face{",
 "fontFamily": "'Presidente';",
 "source": "url('./fonts/Presidente.ttf');",
-"fontWeight": "normal;}"
-},
-{
-"fontFace": "@font-face{",
-"fontFamily": "'Infinite Stroke';",
-"source": "url('./fonts/InfiniteStroke.otf');",
-"fontWeight": "normal;}"
+"fontWeight": "normal;}",
+"handwriting": true
 },
 {
 "fontFace": "@font-face{",
 "fontFamily": "'Sabrina AT';",
 "source": "url('./fonts/SabrinaAT.otf');",
-"fontWeight": "normal;}"
+"fontWeight": "normal;}",
+"handwriting": true
 },
 {
 "fontFace": "@font-face{",
 "fontFamily": "'Freestyle Script';",
 "source": "url('./fonts/FreestyleScript.ttf');",
-"fontWeight": "normal;}"
+"fontWeight": "normal;}",
+"handwriting": true
 },
 {
 "fontFace": "@font-face{",
@@ -177,7 +191,8 @@
 "fontFace": "@font-face{",
 "fontFamily": "'Quickier';",
 "source": "url('./fonts/Quickier.ttf');",
-"fontWeight": "normal;}"
+"fontWeight": "normal;}",
+"handwriting": true
 },
 {
 "fontFace": "@font-face{",
@@ -195,13 +210,15 @@
 "fontFace": "@font-face{",
 "fontFamily": "'Sverige Script';",
 "source": "url('./fonts/SverigeScript .ttf');",
-"fontWeight": "normal;}"
+"fontWeight": "normal;}",
+"handwriting": true
 },
 {
 "fontFace": "@font-face{",
 "fontFamily": "'Rage Italic';",
 "source": "url('./fonts/RageItalic.ttf');",
-"fontWeight": "normal;}"
+"fontWeight": "normal;}",
+"handwriting": true
 },
 {
 "fontFace": "@font-face{",
@@ -225,13 +242,15 @@
 "fontFace": "@font-face{",
 "fontFamily": "'Wedding Chardonnay';",
 "source": "url('./fonts/WeddingChardonnay.ttf');",
-"fontWeight": "normal;}"
+"fontWeight": "normal;}",
+"handwriting": true
 },
 {
 "fontFace": "@font-face{",
 "fontFamily": "'Segoe Script';",
 "source": "url('./fonts/SegoeScript.ttf');",
-"fontWeight": "normal;}"
+"fontWeight": "normal;}",
+"handwriting": true
 },
 {
 "fontFace": "@font-face{",
@@ -243,7 +262,8 @@
 "fontFace": "@font-face{",
 "fontFamily": "'Close to You';",
 "source": "url('./fonts/CloseYou.ttf');",
-"fontWeight": "normal;}"
+"fontWeight": "normal;}",
+"handwriting": true
 },
 {
 "fontFace": "@font-face{",
@@ -357,7 +377,8 @@
 "fontFace": "@font-face{",
 "fontFamily": "'PlainBlack';",
 "source": "url('./fonts/PlainBlack.ttf');",
-"fontWeight": "normal;}"
+"fontWeight": "normal;}",
+"handwriting": true
 },
 {
 "fontFace": "@font-face{",
@@ -447,115 +468,134 @@
 "fontFace": "@font-face{",
 "fontFamily": "'Asmelina Harley';",
 "source": "url('./fonts/AsmelinaHarley.ttf');",
-"fontWeight": "normal;}"
+"fontWeight": "normal;}",
+"handwriting": true
 },
 {
 "fontFace": "@font-face{",
 "fontFamily": "'Belinda Carolyne';",
 "source": "url('./fonts/BrotherhoodScript.ttf');",
-"fontWeight": "normal;}"
+"fontWeight": "normal;}",
+"handwriting": true
 },
 {
 "fontFace": "@font-face{",
 "fontFamily": "'Candire';",
 "source": "url('./fonts/Candire.otf');",
-"fontWeight": "normal;}"
+"fontWeight": "normal;}",
+"handwriting": true
 },
 {
 "fontFace": "@font-face{",
 "fontFamily": "'Centeria Script';",
 "source": "url('./fonts/CenteriaScript.otf');",
-"fontWeight": "normal;}"
+"fontWeight": "normal;}",
+"handwriting": true
 },
 {
 "fontFace": "@font-face{",
 "fontFamily": "'Crimson Foam';",
 "source": "url('./fonts/CrimsonFoam.ttf');",
-"fontWeight": "normal;}"
+"fontWeight": "normal;}",
+"handwriting": true
 },
 {
 "fontFace": "@font-face{",
 "fontFamily": "'Dragon is Coming';",
 "source": "url('./fonts/DragonComing.otf');",
-"fontWeight": "normal;}"
+"fontWeight": "normal;}",
+"handwriting": true
 },
 {
 "fontFace": "@font-face{",
 "fontFamily": "'AkaylaScript';",
 "source": "url('./fonts/AkaylaScript.ttf');",
-"fontWeight": "normal;}"
+"fontWeight": "normal;}",
+"handwriting": true
 },
 {
 "fontFace": "@font-face{",
 "fontFamily": "'Freebooter Script';",
 "source": "url('./fonts/FreebooterScript.ttf');",
-"fontWeight": "normal;}"
+"fontWeight": "normal;}",
+"handwriting": true
 },
 {
 "fontFace": "@font-face{",
 "fontFamily": "'Marguerite';",
 "source": "url('./fonts/marguerite.ttf');",
-"fontWeight": "normal;}"
+"fontWeight": "normal;}",
+"handwriting": true
 },
 {
 "fontFace": "@font-face{",
 "fontFamily": "'Master Of Break';",
 "source": "url('./fonts/MasterBreak.ttf');",
-"fontWeight": "normal;}"
+"fontWeight": "normal;}",
+"handwriting": true
 },
 {
 "fontFace": "@font-face{",
 "fontFamily": "'Maylika Calligraphy';",
 "source": "url('./fonts/MaylikaCalligraphy.ttf');",
-"fontWeight": "normal;}"
+"fontWeight": "normal;}",
+"handwriting": true
 },
 {
 "fontFace": "@font-face{",
 "fontFamily": "'Melinda Script';",
 "source": "url('./fonts/MelindaScript.ttf');",
-"fontWeight": "normal;}"
+"fontWeight": "normal;}",
+"handwriting": true
 },
 {
 "fontFace": "@font-face{",
 "fontFamily": "'Messenger Pigeons';",
 "source": "url('./fonts/MessengerPigeons.ttf');",
-"fontWeight": "normal;}"
+"fontWeight": "normal;}",
+"handwriting": true
 },
 {
 "fontFace": "@font-face{",
 "fontFamily": "'Manthesy';",
 "source": "url('./fonts/Manthesy.ttf');",
-"fontWeight": "normal;}"
+"fontWeight": "normal;}",
+"handwriting": true
 },
 {
 "fontFace": "@font-face{",
 "fontFamily": "'lintingdaon';",
 "source": "url('./fonts/lintingdaon.ttf');",
-"fontWeight": "normal;}"
+"fontWeight": "normal;}",
+"handwriting": true
 },
 {
 "fontFace": "@font-face{",
 "fontFamily": "'Lavanderia Regular';",
 "source": "url('./fonts/LavanderiaRegular.otf');",
-"fontWeight": "normal;}"
+"fontWeight": "normal;}",
+"handwriting": true
 },
 {
 "fontFace": "@font-face{",
 "fontFamily": "'King Lionel';",
 "source": "url('./fonts/KingLionel.ttf');",
-"fontWeight": "normal;}"
+"fontWeight": "normal;}",
+"handwriting": true
 },
 {
 "fontFace": "@font-face{",
 "fontFamily": "'Keith Gordon';",
 "source": "url('./fonts/KeithGordon.ttf');",
-"fontWeight": "normal;}"
+"fontWeight": "normal;}",
+"handwriting": true
 },
 {
 "fontFace": "@font-face{",
 "fontFamily": "'Watermelon';",
 "source": "url('./fonts/Watermelon.ttf');",
-"fontWeight": "normal;}"
+"fontWeight": "normal;}",
+"handwriting": true
 },
 {
 "fontFace": "@font-face{",
@@ -567,43 +607,50 @@
 "fontFace": "@font-face{",
 "fontFamily": "'Palace Script';",
 "source": "url('./fonts/PalaceScript.otf');",
-"fontWeight": "normal;}"
+"fontWeight": "normal;}",
+"handwriting": true
 },
 {
 "fontFace": "@font-face{",
 "fontFamily": "'Millania';",
 "source": "url('./fonts/Millania.otf');",
-"fontWeight": "normal;}"
+"fontWeight": "normal;}",
+"handwriting": true
 },
 {
 "fontFace": "@font-face{",
 "fontFamily": "'Nagisha';",
 "source": "url('./fonts/Nagisha.ttf');",
-"fontWeight": "normal;}"
+"fontWeight": "normal;}",
+"handwriting": true
 },
 {
 "fontFace": "@font-face{",
 "fontFamily": "'Quickers';",
 "source": "url('./fonts/Quickers.ttf');",
-"fontWeight": "normal;}"
+"fontWeight": "normal;}",
+"handwriting": true
 },
 {
 "fontFace": "@font-face{",
 "fontFamily": "'Raysha Moonly';",
 "source": "url('./fonts/RayshaMoonly.ttf');",
-"fontWeight": "normal;}"
+"fontWeight": "normal;}",
+"handwriting": true
 },
 {
 "fontFace": "@font-face{",
 "fontFamily": "'Sacramento';",
 "source": "url('./fonts/Sacramento.ttf');",
-"fontWeight": "normal;}"
+"fontWeight": "normal;}",
+"handwriting": true
 },
 {
 "fontFace": "@font-face{",
 "fontFamily": "'Respective';",
 "source": "url('./fonts/Respective.ttf');",
-"fontWeight": "normal;}"
+"fontWeight": "normal;}",
+"handwriting": true
 },
 {
 "fontFace": "@font-face{",
