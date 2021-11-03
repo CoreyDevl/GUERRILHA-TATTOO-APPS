@@ -534,94 +534,6 @@ font-family:'Palace Script';
 src: url('./fonts/palace.ttf');
 font-weight: normal;}
 
-* {
-margin: 0px;
-padding: 0px;
-}
-
-:root {
---cor0: #box5ebd6; 
---cor1: #83e1ad; 
---cor2: #6b6b6b; 
---cor3: #00000054;
---cor4: #00000075;
---cor5: #011309;
---fonte-padrão: Arial, Verdana, Helvetica, sans-serif;
---fonte-destaque: 'Bebas Neue', cursive;
---fonte-guerrilha: 'guerrilha', cursive;
-}
-
-body{
-
-margin: 0;
-background-color: white;
-height: auto;
-width: auto;
-}
-
-
-
-h1{
-padding: 15px 0px 0px 10px;
-font-family:var(--fonte-guerrilha);
-font-size: 80px ;
-
-}
-
-hr{
-background-color: black;
-border:  3px solid;
-
-}
-.textbox{
-border-style: none;
-width: 300px;
-min-width: 100px;
-text-align: start;
-box-shadow: 0px 0px 8px #00000063;
-margin: 10px;
-padding: 6px;
-
-}
-
-.inputs{
-padding: 10px 10px 10px 10px;
-}
-
-.textbox::placeholder{
-color: rgba(0, 0, 0, 0.24);
-font-size: 12.5pt;
-}
-
-textarea:focus, input:focus {
-box-shadow: 0 0 0 0;
-outline: 0;
-}
-
-.buttonbox{
-padding: 4px 17px;
-font-size: 12.5px;
-margin-left: 10px;
-}
-
- .check{
-     position: absolute;
-     margin: 2px -25px;
-     
- }
-
-.panel{
-margin-bottom: 37px;
-display: flex;
-justify-content: space-around;
-height: 135px;
-width: 100%;
-}
-
-legend{
-font-size: 10pt;
-color: rgba(0, 0, 0, 0.308);
-}
 
 #box000{
 font-size: 200px;
@@ -1209,7 +1121,157 @@ margin: 0px 0px 0px 0px;
 } 
 
 
+* {
+margin: 0px;
+padding: 0px;
+}
+
+:root {
+--cor0: #box5ebd6; 
+--cor1: #83e1ad; 
+--cor2: #6b6b6b; 
+--cor3: #00000054;
+--cor4: #00000075;
+--cor5: #011309;
+--fonte-padrão: Arial, Verdana, Helvetica, sans-serif;
+--fonte-destaque: 'Bebas Neue', cursive;
+--fonte-guerrilha: 'guerrilha', cursive;
+}
+
+body{
+
+margin: 0;
+background-color: white;
+height: auto;
+width: auto;
+}
+
+
+
+h1{
+padding: 15px 0px 0px 10px;
+font-family:var(--fonte-guerrilha);
+font-size: 80px ;
+
+}
+
+hr{
+background-color: black;
+border:  3px solid;
+
+} 
+
+.textbox{
+border-style: none;
+width: 300px;
+min-width: 100px;
+text-align: start;
+box-shadow: 0px 0px 8px #00000063;
+margin: -6px 10px 10px 10px;
+padding: 6px;
+
+}
+
+.filters{
+display: flex;
+
+}
+
+.filtersHAND{
+    font-family: "Candire";
+    font-size: 20pt;
+}
+
+.filtersTRAD{
+    font-family: "Brother Tattoo";
+    font-size: 30pt;
+}
+.filtersFREE{
+    font-family: "Empires";
+    font-size: 25pt;
+    margin: 2px 0px;
+}
+ 
+
+.filtersTYPE{
+    
+    font-family: "Courier New";
+    font-size: 15pt;
+}
+
+.filtersGOT{
+    font-family: "BlackInitialText";
+    font-size: 25pt;
+}
+
+.filters div{
+    margin: 10px 6px 
+}
+
+.filters p{
+    margin: 10px 10px;
+}
+
+.filters input{
+    margin: 0px 10px;
+}
+
+.inputs{
+padding: 0px 10px 10px 10px;
+}
+
+.textbox::placeholder{
+color: rgba(0, 0, 0, 0.24);
+font-size: 12.5pt;
+}
+
+textarea:focus, input:focus {
+box-shadow: 0 0 0 0;
+outline: 0;
+}
+
+.buttonbox{
+padding: 4px 17px;
+font-size: 12.5px;
+margin-left: 10px;
+}
+
+.check{
+position: absolute;
+margin: 2px -25px;
+
+}
+
+.panel{
+margin-bottom: 37px;
+display: flex;
+justify-content: space-around;
+height: 135px;
+width: 100%;
+}
+
+legend{
+font-size: 10pt;
+color: rgba(0, 0, 0, 0.308);
+}
 
 .panelOff{
-    display:none
+display:none
+}
+
+.hand{
+    display: '';
+}
+
+.trad{
+    display: '';
+}
+.goth{
+    display: '';
+}
+.type{
+    display: '';
+}
+.free{
+    display: '';
 }
