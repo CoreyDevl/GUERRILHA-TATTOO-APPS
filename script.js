@@ -16,7 +16,7 @@ function getText(){
     let goth = document.getElementsByClassName('goth')
     let free = document.getElementsByClassName('free')
     let type = document.getElementsByClassName('type')
- console.log(filterHand)
+    let main = document.querySelector('main')
     let inputValue = document.getElementById('send')
     let text = inputValue.value    
     let panel = document.querySelector('.panel')
@@ -27,13 +27,77 @@ function getText(){
     for(let i = 0 ; i < boxes.length ; i++){
         boxes[i].innerHTML = '';
         boxes[i].innerHTML = `${text}`;
-    
+     }
+
+    if(filterHand.checked == true) {
+        for (let a = 0 ; a < trad.length ; a++){
+           trad[a].style.display ="none"}
+        for (let b = 0 ; b < goth.length ; b++){
+           goth[b].style.display ="none"}
+        for (let c = 0 ; c < free.length ; c++){
+           free[c].style.display ="none"}
+        for (let d = 0 ; d < type.length ; d++){
+           type[d].style.display ="none"}
     }
-    filterHand.checked == true ? console.log('checked') : console.log('nao pegou') 
+    if(filterTrad.checked == true) {
+        for (let a = 0 ; a < hand.length ; a++){
+           hand[a].style.display ="none"}
+        for (let b = 0 ; b < goth.length ; b++){
+           goth[b].style.display ="none"}
+        for (let c = 0 ; c < free.length ; c++){
+           free[c].style.display ="none"}
+        for (let d = 0 ; d < type.length ; d++){
+           type[d].style.display ="none"}
+    }
+    if(filterGoth.checked == true) {
+        for (let a = 0 ; a < hand.length ; a++){
+           hand[a].style.display ="none"}
+        for (let b = 0 ; b < trad.length ; b++){
+           trad[b].style.display ="none"}
+        for (let c = 0 ; c < free.length ; c++){
+           free[c].style.display ="none"}
+        for (let d = 0 ; d < type.length ; d++){
+           type[d].style.display ="none"}
+    }
+    if(filterFree.checked == true) {
+        for (let a = 0 ; a < hand.length ; a++){
+           hand[a].style.display ="none"}
+        for (let b = 0 ; b < trad.length ; b++){
+           trad[b].style.display ="none"}
+        for (let c = 0 ; c < goth.length ; c++){
+           goth[c].style.display ="none"}
+        for (let d = 0 ; d < type.length ; d++){
+           type[d].style.display ="none"}
+    }
+    if(filterType.checked == true) {
+        for (let a = 0 ; a < hand.length ; a++){
+           hand[a].style.display ="none"}
+        for (let b = 0 ; b < trad.length ; b++){
+           trad[b].style.display ="none"}
+        for (let c = 0 ; c < goth.length ; c++){
+           goth[c].style.display ="none"}
+        for (let d = 0 ; d < free.length ; d++){
+           free[d].style.display ="none"}
+    }
+
+    if(filterCustom.checked == true){
+console.log(panel)
+    }
 }
 
 
-function checkMark(){
-    const checkers = document.querySelectorAll('input.check')
-    
- }
+    /*
+    if(filterGoth.checked == true) {
+        for (let b = 0 ; b < goth.length ; b++){
+            goth[b].style.display ="none"
+        }}
+    if(filterTrad.checked == true) {
+        for (let c = 0 ; c < trad.length ; c++){
+            trad[c].style.display ="none"
+        }}
+    if(filterFree.checked == true) {
+        for (let d = 0 ; d < trad.length ; d++){
+            trad[c].style.display ="none"
+        }}
+        
+        */
